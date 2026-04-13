@@ -1,1 +1,1 @@
-# bug
+<!-- Teste de alteração para verificar funcionamento do sistema -->
